@@ -1,0 +1,31 @@
+{
+    "profiles":[
+    {
+        "name":"Егор",
+        "fullname":"Тропышко",
+        "secondname":"Вадимович",
+        "social_networks":{
+            "vk":"egor.tropyshko"
+        },
+        "main_info":"Разрабатывает Digital Home",
+        "gender":0,
+        "interests":"нейронные сети, программирование, книги, музыка, обучени",
+        "family":{
+            "sister":"Елизавета",
+            "mother":"Оксана",
+            "father":"Вадим"
+        },
+        "bdate":"03.05.1999",
+        "access":5,
+        "home_city":"Челябинск"
+    },
+    {
+        "name": "Артем",
+        "fullname": "Малышев",
+        "gender": 0,
+        "main_info": "Разрабывает Digital Home",
+        "access": "5",
+        "home_city": "Челябинск"
+    }
+]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "small-talk-nswb",
+  "private_key_id": "26123d9a306f5a60be96c2b5f824c79315aca5f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDINHpu4az5KXTi\nKCEsq7KAgkW5Pum8E0W9lpzsmu64Y0zVtpBrvamjzV56T79aJl5LoaCBccTnR8gV\n6p/GmhgqCmR35el5hdCzdMgnscbxyaaWmwRPzPa7V4/v8iduM1PWn0W80A9LXKDz\nzO+7A2DUcPFL5r2Hz7gDcV/Qf5FzAiE3alIDbpg7VhMbCYnHwHAurhCNRDhbWTM7\nyt/Hl9ikrX+RlR3L3LYrTEXajNIPgBBHi2921q06KJ2y1P9qiOCRI5h3l0EEMEem\nqrTpoKo7iiX3CqjPEHLqEjHy5m5mC5OND1Q76FdS1soaMdD2CH9bd3QlFHsb4EMz\n29DAIu+tAgMBAAECggEAEP57Ygwf/apqNIRJhJwyc7wbJQVVG9Ta96PgQClKmDY9\noGp1yd94leHp4iIA0Ssul+bpU/OPTj6Gmm2nEFmmMXNeYdsPPXSBaapBDzWE+KMw\nU9pmvEteqjpdinWYqT8MH8y3Q7a5haEgPHGp68r2njHUGahFcFDOguRNyMn7U7K1\nDXk0Y3gcekcv5Dfw/K6EseYxDpetRszk9vD2V8Urw2oGxIeFQBXKLfGUnVU0ZFdi\niaOVmgNGAjIyiUycASPuynKol9XRDtpHRXY3MphzmuxIRb9g0N8xE5P6tzCZ2t4N\nXUGHzTIfQ8uc190+qMWWnpDL1mEo55D1BOR0H/RslQKBgQDy8OayV4VlxW/s2bsj\nKozYI81ILFzRC4VhPIh24DjxEutbHWm361ok2n5l0ECnXAhveCFY9231tFsELetO\nmpqf5B+42vKjRlxm7Uo+GW6iKREFW1qFJAbC4qhgBp8BO6YVbxmShU5TCxDvYqu/\n/l5Xll/goLwS1z4DmkWjd1/K5wKBgQDS930kOCbdN3eyl6TzrXgBf09GVzTP+0ir\n8o/MrxEQIW/x/fsuThPtaRzosha0xuW1p8l5Cp7JlhWJ5WgWzOV3X8aTPqecvoxn\n2I4JtmUx1u48K/i69wOGBlo0zv8s8s+CGz/vg53oNoWJkIrINjEzf1rttG9D7Rz/\nmGoXLTfSSwKBgCwJz0f05ZGVQLzGm028oNttYgD7Sbf7RqphtrsV2jyZGWDi7A8S\n8rxLfy4lmhK8dCsAs8rUz3ICx5zyVf1huTXSvI1d4y4Fyyo9SYAITC3JE/TMopQP\n+8nIHI2LpbcrgOfRw+jzkUcscl1ynX+oNKHb+HVXrcAclHlCtezz7sFxAoGAAy1d\nAh2iYDSEpfjosA7NvuAG9p07m2JCbuyBQ+jjDeYjBHb5wHHGlQ2/NLXx55kTPpAf\nVaZWS9zpyCDfV3CQiCK2H+OSrKamAK5fPUA09/IvtlJHNbGgqPURiLgRWcDyZRg5\n90Z5K1Ue37qAjJFcXlUtrmTIRDKe/C50cpLow08CgYAOyriRvTcY58slU+zTk5H2\nQ209G6f53uWH9jc/yw3ayyFSi48Mti8QRrsbBxLtj1ZwDhxsIVs1ENazwZas5gir\notmDJbIQMsz4WvXC6Kklf2ox95wNAUyrkyGMbYX02a2tvkYIxbWIWtOX4KBzVbhg\n78xbByG6Dw72kgEIC+kGrw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chelchat@small-talk-nswb.iam.gserviceaccount.com",
+  "client_id": "111185064889776330370",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chelchat%40small-talk-nswb.iam.gserviceaccount.com"
+}
